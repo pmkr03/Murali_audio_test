@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Audio Transcription API
 
 A small FastAPI project that accepts audio files, transcribes speech with a pretrained `faster-whisper` model, and returns segment-level timestamps.
